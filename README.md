@@ -20,3 +20,5 @@ Throughout my career, I've had the opportunity to work on diverse projects, rang
 - **LinkedIn**: https://www.linkedin.com/in/eye-dee/
 
 Feel free to explore my repositories and reach out if you have any questions or would like to collaborate on a project. Happy coding! 🚀
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eye-dee)](https://github.com/ryo-ma/github-profile-trophy)
