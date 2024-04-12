@@ -22,3 +22,7 @@ Throughout my career, I've had the opportunity to work on diverse projects, rang
 Feel free to explore my repositories and reach out if you have any questions or would like to collaborate on a project. Happy coding! 🚀
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eye-dee&theme=radical&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eye-dee&" alt="eye-dee" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=eye-dee&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=truelocale=en" alt="eye-dee" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eye-dee&hide=html,css&show_icons=true&locale=en&layout=compact&hide-title=true" alt="eye-dee" />
