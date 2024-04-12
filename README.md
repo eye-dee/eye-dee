@@ -28,3 +28,5 @@ Feel free to explore my repositories and reach out if you have any questions or 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eye-dee&" alt="eye-dee" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=eye-dee&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=truelocale=en" alt="eye-dee" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eye-dee&hide=html,css&show_icons=true&locale=en&layout=compact&hide-title=true" alt="eye-dee" />
+
+<a href="https://github.com/HwangTaehyun/github-contributor-stats">![GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=eye-dee&combine_all_yearly_contributions=true&hide=B,B+&theme=swift)</a>
