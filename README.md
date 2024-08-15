@@ -10,7 +10,7 @@ Throughout my career, I've had the opportunity to work on diverse projects, rang
 
 - **Programming Languages**: Kotlin, Java
 - **Frameworks & Technologies**: Spring Boot
-- **Database Management**: PostgreSQL, EalsticSearch, MongoDB, Neo4j, GraphDB
+- **Database Management**: PostgreSQL, EalsticSearch, MongoDB, Neo4j, Dgraph
 - **Tools & Platforms**: Docker, AWS, Flink
 - **Soft Skills**: leadership, teamwork, communication
 
